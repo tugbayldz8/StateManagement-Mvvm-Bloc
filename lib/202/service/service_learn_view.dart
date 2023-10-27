@@ -18,7 +18,7 @@ class _ServiceLearnState extends State<ServiceLearn> {
   late final Dio _dio;
   final _baseUrl = 'https://jsonplaceholder.typicode.com/';
 
-//***********TEST EDİLEBİLİR BİR HaLE GELDİ KOD*********
+//**********TEST EDİLEBİLİR BİR HaLE GELDİ KOD*********
   late final IPostService _postService;
 
   @override
